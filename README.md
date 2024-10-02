@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 This Project talks about Wireshark as a popular open-source network analysis tool used for capturing and inspecting data packets traveling across a network in real-time. It allows users to monitor network traffic, troubleshoot issues, analyze security vulnerabilities, and gain insights into network performance. Wireshark supports various protocols, making it a versatile tool for diagnosing and identifying potential problems within a network. It is widely used by network administrators, security professionals, and developers for its deep packet inspection capabilities and user-friendly interface.
-Writing a Bash script is simple. You start with a shebang (#!/bin/bash) at the top of the file, which tells the system to use Bash to interpret the script. Then, you can include any sequence of commands you would typically run in the terminal, such as file manipulation, program execution, or even complex logic with loops and conditionals.
+
 <br />
 
 <h2>Languages and Utilities Used</h2>
